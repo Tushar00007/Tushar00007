@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@rk612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@rk612" height="30" width="40" /></a>
+<a href="https://codepen.io/Tushar-Sonavane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@rk612" height="30" width="40" /></a>
 <a href="https://twitter.com/iamrahulkonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamrahulkonda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/rahul-konda-60a167203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rahul-konda-60a167203" height="30" width="40" /></a>
 <a href="https://codesandbox.com/rahul612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rahul612" height="30" width="40" /></a>
