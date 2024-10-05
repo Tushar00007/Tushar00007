@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tusharsonavane21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1is7J9mBrD5HrYib73JqveimwH74FVYrP/view?usp=sharing](https://drive.google.com/file/d/1is7J9mBrD5HrYib73JqveimwH74FVYrP/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1glxmiZ2cqIRpSIpLS0VOlGizoQ5rtyYQ/view?usp=drivesdk](https://drive.google.com/file/d/1glxmiZ2cqIRpSIpLS0VOlGizoQ5rtyYQ/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am artist**
 
